@@ -1,0 +1,2 @@
+# studyFunctionLife
+Created with CodeSandbox
